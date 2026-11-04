@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f7be0"/><stop offset="1" stop-color="#1b3f86"/>
+    </linearGradient>
+    <linearGradient id="die" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eaf2ff"/><stop offset="1" stop-color="#b9cdef"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="232" height="232" rx="44" fill="url(#bg)"/>
+  <g stroke="#cfe0ff" stroke-width="9" stroke-linecap="round">
+    <path d="M92 52v18M128 52v18M164 52v18M92 186v18M128 186v18M164 186v18"/>
+    <path d="M52 92h18M52 128h18M52 164h18M186 92h18M186 128h18M186 164h18"/>
+  </g>
+  <rect x="70" y="70" width="116" height="116" rx="16" fill="#0f2350"/>
+  <rect x="84" y="84" width="88" height="88" rx="10" fill="url(#die)"/>
+  <path d="M100 150v-44M100 128h22M122 150v-44" stroke="#163a7a" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M136 108h24l-24 42h24" stroke="#d8452f" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
