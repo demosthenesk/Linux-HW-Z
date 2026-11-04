@@ -35,7 +35,7 @@ until Linux HW-Z closes.
 
 ## Download and run
 
-Get `Linux-HW-Z-1.0.1-x86_64.AppImage` and its `.sha256`, then:
+Download `Linux-HW-Z-1.0.1-x86_64.AppImage` and its `.sha256` from [Releases](https://github.com/demosthenesk/Linux-HW-Z/releases/latest), then:
 
 ```sh
 sha256sum -c Linux-HW-Z-1.0.1-x86_64.AppImage.sha256
